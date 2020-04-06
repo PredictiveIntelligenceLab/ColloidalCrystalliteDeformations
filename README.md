@@ -1,6 +1,6 @@
 # Hydrodynamic and Frictional Modulation of Deformations in Switchable Colloidal Crystallites
 
-Data repository accompanying the manuscript titled "Hydrodynamic and Frictional Modulation of Deformations in
+Data (available upon request) accompanying the manuscript titled "Hydrodynamic and Frictional Modulation of Deformations in
 Switchable Colloidal Crystallites", authored by Young Ki Lee, Xiaoguai Li, Paris Perdikaris, John C. Crocker, Celia Reina,
 and Talid Sinno.
 
