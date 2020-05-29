@@ -22,10 +22,10 @@ synergistically to bias crystallite deformations towards a subset of the availab
 
 ## Citation
 
-@article{lee2020hydrodynamic,
-  title={Hydrodynamic and frictional modulation of deformations in switchable colloidal crystallites},
-  author={Lee, Young Ki and Li, Xiaoguai and Perdikaris, Paris and Crocker, John C and Reina, Celia and Sinno, Talid},
-  journal={Proceedings of the National Academy of Sciences},
-  year={2020},
-  publisher={National Acad Sciences}
-}
+    @article{lee2020hydrodynamic,
+      title={Hydrodynamic and frictional modulation of deformations in switchable colloidal crystallites},
+      author={Lee, Young Ki and Li, Xiaoguai and Perdikaris, Paris and Crocker, John C and Reina, Celia and Sinno, Talid},
+      journal={Proceedings of the National Academy of Sciences},
+      year={2020},
+      publisher={National Acad Sciences}
+    }
